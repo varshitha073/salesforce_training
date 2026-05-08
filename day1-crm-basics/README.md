@@ -106,5 +106,21 @@ Tracks treatment or surgery details and hospital revenue.
 Example: **Heart Surgery Package** → treatment case for Ravi Kumar.
 
 
-## Screen Shots from trailhead 
+## ✨ **SCREEN SHOTS FROM TRAILHEAD** ✨
+## 🚀 **PLAYGROUND SETUP** ✨   
 <img width="1600" height="600" alt="Image" src="https://github.com/user-attachments/assets/dc62b77b-1be9-4d75-bdf5-568e721344db" />
+
+## 🏢 **ACCOUNT CREATION** ✨ 
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/178b829d-9980-4a47-8f09-70b8e4fed21d" />
+
+## 👤 **CONTACT CREATION** ✨ 
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/d7f21cc2-1296-4ca4-a82c-853683da0933" />
+
+## 📩 **LEAD CREATION** ✨  
+<img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/4032d04a-cae8-451e-9461-25756a248db0" />
+
+## 💰 **OPPORTUNITY CREATION** ✨ 
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/69bda61c-bb84-462f-9a14-29e2d174b26a" />
+
+
+
