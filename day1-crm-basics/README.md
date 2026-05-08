@@ -1,78 +1,106 @@
-# CRM and Salesforce Basics
+# 🚀 Salesforce Training 📊
 
- 1. What is CRM
+---
 
+# 📌 CRM and Salesforce Basics 💡
+
+## 1. What is CRM 🧩
 **CRM (Customer Relationship Management)** is a system used to manage customer information and business relationships.
 
 It helps companies to:
-- Store customer data
-- Track sales
-- Improve customer service
-- Manage communication
+- Store customer data  
+- Track sales  
+- Improve customer service  
+- Manage communication  
 
-Examples:
-- **Salesforce**
-- HubSpot
-- Zoho CRM
+**Examples:**
+- Salesforce  
+- HubSpot  
+- Zoho CRM  
 
 ---
 
-2.  Why Companies Use Salesforce
-
-**Salesforce** is a popular **cloud-based CRM platform**.
+## 2. Why Companies Use Salesforce ☁️
+**Salesforce** is a cloud-based CRM platform used to manage business processes efficiently.
 
 Companies use Salesforce to:
-- Manage customer data
-- Track sales and opportunities
-- Automate business processes
-- Generate reports and dashboards
-- Improve customer relationships
+- Manage customer data  
+- Track sales and opportunities  
+- Automate business processes  
+- Generate reports and dashboards  
+- Improve customer relationships  
 
-### Advantages of Salesforce
-- Easy to use
-- Secure cloud platform
-- Real-time data access
-- Customizable applications
-- Better business management
-
----
-**3. Explanation**
-3.1: Account
-
-An **Account** represents a **company or organization** in Salesforce.
-
-### Examples
-- Mondocorp
-- Amazon
-
-### Uses
-- Store company details
-- Maintain business records
+### Advantages of Salesforce ⚡
+- Easy to use  
+- Secure cloud platform  
+- Real-time data access  
+- Highly customizable  
+- Better business management  
 
 ---
 
-3.2 Contact
+## 3. Salesforce Objects Overview 🗂️
 
-A **Contact** represents a **person related to an Account**.
+### 3.1 Account 🏢
+An **Account** represents a company, organization, or patient record in Salesforce.
 
-### Example
-- Shawn Corbin
+**Examples:**
+- Mondocorp  
+- Amazon  
 
-### Uses
-- Store customer information
-- Manage communication details
+**Uses:**
+- Store company or patient details  
+- Maintain business records  
 
 ---
 
-3.3 Opportunity
+### 3.2 Contact 👤
+A **Contact** represents a person related to an Account.
 
-An **Opportunity** represents a **potential sales deal**.
+**Example:**
+- Shawn Corbin  
 
-### Example
-- Replacement gas generator
+**Uses:**
+- Store customer or patient information  
+- Manage communication details  
 
-### Uses
-- Track sales progress
-- Manage deal stages
-- Estimate revenue
+---
 
+### 3.3 Opportunity 💰
+An **Opportunity** represents a potential sales deal or business case.
+
+**Example:**
+- Replacement gas generator  
+
+**Uses:**
+- Track sales progress  
+- Manage deal stages  
+- Estimate revenue  
+
+---
+
+# 🏥 Hospital Management System (Salesforce) 🏥
+
+---
+
+## 💡 Account 🏢
+Stores main patient details or hospital/insurance record.  
+Example: **Ravi Kumar** → patient profile in the system.
+
+---
+
+## 💡 Contact 👤
+Stores people related to the patient like family or doctors.  
+Example: **Suresh Kumar** → patient attender linked to Ravi Kumar.
+
+---
+
+## 💡 Lead 📩
+Captures new patient inquiries before confirmation.  
+Example: **Priya Sharma** → new inquiry from website.
+
+---
+
+## 💡 Opportunity 💰
+Tracks treatment or surgery details and hospital revenue.  
+Example: **Heart Surgery Package** → treatment case for Ravi Kumar.
