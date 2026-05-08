@@ -79,7 +79,7 @@ An **Opportunity** represents a potential sales deal or business case.
 
 ---
 
-# 4.🏥 Hospital Management System (Salesforce) 🏥
+# 4.🏥 Hospital(Salesforce) 🏥
 
 ---
 
