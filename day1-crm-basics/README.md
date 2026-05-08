@@ -104,3 +104,7 @@ Example: **Priya Sharma** → new inquiry from website.
 ## 💡 Opportunity 💰
 Tracks treatment or surgery details and hospital revenue.  
 Example: **Heart Surgery Package** → treatment case for Ravi Kumar.
+
+
+## Screen Shots from trailhead 
+<img width="1600" height="600" alt="Image" src="https://github.com/user-attachments/assets/dc62b77b-1be9-4d75-bdf5-568e721344db" />
