@@ -112,32 +112,40 @@ This helps brokers quickly identify customers who are eligible for home loans.
 ## 1️⃣ Trailhead Playground Creation
 Created a Trailhead Playground environment for Salesforce learning and practice.
 
-📷 *Add Screenshot Here*
+<img width="1895" height="638" alt="Image" src="https://github.com/user-attachments/assets/7105c926-76b1-4609-82b4-b89c64dbd8f6" />
 
 ---
 
 ## 2️⃣ Password Reset & Package Installation
 Reset the Trailhead Playground password and installed the DreamHouse package successfully.
 
-📷 *Add Screenshot Here*
-
+<img width="1888" height="850" alt="Image" src="https://github.com/user-attachments/assets/35479632-8998-4d01-950f-53629ade8886" />
 ---
 
 ## 3️⃣ Contact Object Page
 Opened the Contact standard object from Object Manager to customize fields and manage customer details.
 
-📷 *Add Screenshot Here*
+<img width="1902" height="850" alt="Image" src="https://github.com/user-attachments/assets/3a5638f7-5a85-4132-b01f-ca52c92d60a7" />
 
 ---
 
 ## 4️⃣ Custom Field Creation
 Created a custom checkbox field named **Prequalified?** inside the Contact object.
 
-📷 *Add Screenshot Here*
+<img width="1905" height="896" alt="Image" src="https://github.com/user-attachments/assets/6e8f5693-6f48-4f14-8a44-643201131ce3" />
 
 ---
 
 ## 5️⃣ DreamHouse Application
 Opened the DreamHouse App and verified the custom field inside the Contact records page.
 
-📷 *Add Screenshot Here*
+<img width="1872" height="850" alt="Image" src="https://github.com/user-attachments/assets/e6f5a864-bfc2-4c8e-aa6b-722d393b2b77" />
+
+---
+
+## 6️⃣ Salesforce Setup Page
+
+Accessed the Salesforce Setup page to customize objects, fields, applications, and platform settings required for development and configuration tasks.
+
+<img width="1896" height="900" alt="Image" src="https://github.com/user-attachments/assets/e00dbf6a-df9a-48c1-b55d-70cc53679125" />
+---
