@@ -77,7 +77,7 @@ when a property is marked as sold:
 
 ## ✨ 4. your flow diagram ✨
 
-<img width="1000" height="700" alt="Image" src="https://github.com/user-attachments/assets/a29d25b7-4a39-484b-a2e3-97cb70df9227" />
+<img width="1000" height="650" alt="Image" src="https://github.com/user-attachments/assets/a29d25b7-4a39-484b-a2e3-97cb70df9227" />
 
 ---
 
@@ -92,8 +92,6 @@ when a property is marked as sold:
 | slower response | faster execution |
 
 ---
-
-## ✨ 6. reflection ✨
 
 ## ✨ 6. reflection ✨
 
