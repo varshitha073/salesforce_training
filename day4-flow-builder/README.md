@@ -77,7 +77,7 @@ when a property is marked as sold:
 
 ## ✨ 4. your flow diagram ✨
 
-<img width="1097" height="837" alt="Image" src="https://github.com/user-attachments/assets/a29d25b7-4a39-484b-a2e3-97cb70df9227" />
+<img width="1000" height="700" alt="Image" src="https://github.com/user-attachments/assets/a29d25b7-4a39-484b-a2e3-97cb70df9227" />
 
 ---
 
@@ -95,4 +95,10 @@ when a property is marked as sold:
 
 ## ✨ 6. reflection ✨
 
-automation is important in enterprise systems because organizations handle large amounts of data and repetitive tasks every day. manual processing takes more time and can lead to errors. automation improves productivity, accuracy, consistency, and speed. using salesforce flow builder, companies can automate workflows easily without programming knowledge, making business operations more efficient and scalable.
+## ✨ 6. reflection ✨
+
+salesforce flow builder plays an important role in enterprise automation by simplifying complex business processes through a no-code approach. it helps organizations automate repetitive tasks such as record updates, notifications, approvals, and customer interactions, which improves productivity and reduces manual effort.
+
+using flow builder, businesses can create faster and more accurate workflows with drag-and-drop components instead of traditional programming. this reduces human errors, saves time, and ensures consistency in operations. screen flows improve user interaction, while record-triggered flows automate backend activities automatically when data changes occur.
+
+overall, flow builder helps enterprises become more efficient, scalable, and organized by streamlining daily operations and improving workflow management.
