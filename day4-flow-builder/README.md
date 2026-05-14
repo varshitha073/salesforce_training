@@ -1,6 +1,6 @@
-# ✨ flow builder ✨
+# ✨ Flow builder ✨
 
-## ✨ 1. what is flow builder? ✨
+## ✨ 1. What is flow builder? ✨
 
 salesforce flow builder is a declarative automation tool used to automate business processes without writing code. it helps users create workflows using drag-and-drop elements such as screens, decisions, assignments, loops, and record operations.
 
@@ -15,9 +15,9 @@ salesforce flow builder is a declarative automation tool used to automate busine
 
 ---
 
-## ✨ 2. types of flows ✨
+## ✨ 2. Types of flows ✨
 
-### screen flow
+### Screen flow
 
 screen flow is an interactive flow where users enter or view information through screens.
 
@@ -35,7 +35,7 @@ a student registration flow where students enter:
 
 ---
 
-### record triggered flow
+### Record triggered flow
 
 record-triggered flow runs automatically when a record is created, updated, or deleted.
 
@@ -53,7 +53,7 @@ when a new lead is created:
 
 ---
 
-## ✨ 3. your automation ideas ✨
+## ✨ 3. Automation ideas ✨
 
 ### 1. automatic lead assignment
 when a lead is created, assign it automatically to the correct sales representative.
@@ -75,13 +75,13 @@ when a property is marked as sold:
 
 ---
 
-## ✨ 4. your flow diagram ✨
+## ✨ 4.Flow diagram ✨
 
 <img width="1000" height="650" alt="Image" src="https://github.com/user-attachments/assets/a29d25b7-4a39-484b-a2e3-97cb70df9227" />
 
 ---
 
-## ✨ 5. manual vs automated process ✨
+## ✨ 5. Manual vs Automated process ✨
 
 | manual process | automated process |
 |---|---|
@@ -93,7 +93,7 @@ when a property is marked as sold:
 
 ---
 
-## ✨ 6. reflection ✨
+## ✨ 6. Reflection ✨
 
 salesforce flow builder plays an important role in enterprise automation by simplifying complex business processes through a no-code approach. it helps organizations automate repetitive tasks such as record updates, notifications, approvals, and customer interactions, which improves productivity and reduces manual effort.
 
