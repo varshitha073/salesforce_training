@@ -236,35 +236,31 @@ public class StudentEligibilityService {
     }
 }
 ```
+<img width="1902" height="577" alt="Screenshot 2026-05-25 150005" src="https://github.com/user-attachments/assets/49c97148-ce78-492e-bac5-e13fed1d2fd5" />
 
----
-
-## Bulk Operations
-
-Apex handles multiple student records together to improve performance and support large-scale processing.
-
----
-
-# 7. Trigger/Event Thinking
-
-## Notify Faculty When Course Full
-
-Trigger automatically alerts faculty when all seats are filled.
-
----
-
-## Alert for Low Attendance
-
-Trigger/Flow sends automatic warning when attendance drops below required percentage.
-
----
-
-# 8. UI Screens
+<img width="1910" height="509" alt="Screenshot 2026-05-25 150020" src="https://github.com/user-attachments/assets/1ab2aca8-6bad-43c3-bb85-1a7cea351d92" />
 
 
 ---
 
-# 9. Complete Data Flow
+
+# 7. UI Screens
+
+studentDashboard-UI
+<img width="1912" height="920" alt="Screenshot 2026-05-25 195503" src="https://github.com/user-attachments/assets/7efb967b-3766-4d62-8a24-0ae3069196f1" />
+
+student registration flow-UI
+<img width="1912" height="920" alt="Screenshot 2026-05-25 195503" src="https://github.com/user-attachments/assets/9c7dafc1-0400-4e79-ae2c-f33095c20bbc" />
+
+student attendance warning flow-UI
+<img width="1894" height="913" alt="Screenshot 2026-05-25 195307" src="https://github.com/user-attachments/assets/7d10c034-5651-48d7-8c8b-ad82ea5a0514" />
+
+attendance warning flow-UI
+<img width="1903" height="920" alt="Screenshot 2026-05-25 195240" src="https://github.com/user-attachments/assets/58f5d28b-1b90-4a6f-a2c9-7df71ce8e034" />
+
+---
+
+# 8. Complete Data Flow
 
 ```text
 Student clicks Register
@@ -288,7 +284,7 @@ Dashboard Refresh
 
 ---
 
-# 10. Reflection
+# 9. Reflection
 
 After developing this project, I realized that enterprise software systems require multiple layers working together, including frontend UI, backend logic, database management, automation, validations, and event-driven architecture.
 
