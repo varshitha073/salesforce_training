@@ -39,8 +39,7 @@ Without GitHub, team development becomes chaotic and error-prone.
 
 ---
 
-# 4. 👥 Team Collaboration Problems (Without Proper Tools)
-
+# 4. 👥 Team Collaboration Problems
 If 10 developers work without proper workflow:
 
 - Code conflicts occur frequently
