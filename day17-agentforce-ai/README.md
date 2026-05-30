@@ -55,20 +55,23 @@ It represents the shift from manual software interaction to AI-driven enterprise
 
 ## 3. AI Workflow Explanation
 
-### 🔁 Enterprise AI Flow
-User Query
-↓
-AI Agent (Agentforce)
-↓
-Reasoning Engine (decides action)
-↓
-Flow / Apex Execution
-↓
-Database (Salesforce Records)
-↓
+User Input (Natural Language)
+        ↓
+AI Agent (Agentforce / LLM)
+        ↓
+Intent Understanding + Reasoning
+        ↓
+Action Selection (Flow / Apex / API)
+        ↓
+Enterprise Data Layer (Salesforce Objects)
+        ↓
+Execution (Business Logic Runs)
+        ↓
+Result Processing
+        ↓
 Response Generation
-↓
-Action Execution / User Output
+        ↓
+User Output + Optional Action Trigger
 
 
 ### Explanation:
