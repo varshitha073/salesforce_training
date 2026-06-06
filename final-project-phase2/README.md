@@ -14,6 +14,7 @@
 
 # 🏗 Final Architecture
 
+```text
 Frontend (LWC Components)
         ↓
 Backend (Apex Classes & Triggers)
@@ -25,7 +26,7 @@ Approval System (Salesforce Approval Process)
 Data Layer (Objects: Employee, Leave Request, Department)
         ↓
 Reporting Layer (Reports & Dashboards)
-
+```
 ---
 
 # 🔄 System Workflow Explanation
