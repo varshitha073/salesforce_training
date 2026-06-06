@@ -109,9 +109,17 @@ trigger LeaveRequestTrigger on Leave_Request__c (before insert) {
 
 # 🎨 LWC SCREENS
 Leave Request Form (Parent Component)  
-Leave Message Display (Child Component)  
-Parent to Child communication using @api  
-Real-time UI updates  
+
+<img width="1912" height="848" alt="Screenshot 2026-06-06 164607" src="https://github.com/user-attachments/assets/60f52786-384a-4ad7-b48b-ff1401f94b9a" />
+
+Dashboard Page
+
+<img width="1908" height="911" alt="Screenshot 2026-06-06 164613" src="https://github.com/user-attachments/assets/80cb851a-6ad5-48af-b933-f07885da19c8" />
+
+Manager Approval Page
+
+<img width="1915" height="912" alt="Screenshot 2026-06-06 164622" src="https://github.com/user-attachments/assets/80b7b675-0897-4da7-9972-ddeac54ada37" />
+
 
 ---
 
