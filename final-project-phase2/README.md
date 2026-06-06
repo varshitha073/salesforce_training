@@ -15,11 +15,16 @@
 # 🏗 Final Architecture
 
 Frontend (LWC Components)
-→ Backend (Apex Classes & Triggers)
-→ Automation (Flows & Validation Rules)
-→ Approval System (Salesforce Approval Process)
-→ Data Layer (Objects: Employee, Leave Request, Department)
-→ Reporting Layer (Reports & Dashboards)
+        ↓
+Backend (Apex Classes & Triggers)
+        ↓
+Automation (Flows & Validation Rules)
+        ↓
+Approval System (Salesforce Approval Process)
+        ↓
+Data Layer (Objects: Employee, Leave Request, Department)
+        ↓
+Reporting Layer (Reports & Dashboards)
 
 ---
 
